@@ -2,6 +2,13 @@ import json
 import datetime
 import pandas
 
+"""
+This is the cleaning code for the turnstile data. 
+
+The turnstile data was strangely hard to parse, and oddly frustrating. This code therefore, should be viewed with caution. Please do report any bugs you find!
+
+"""
+
 def foo(x,audit_type):
     """
     filters out non-REGULAR samples
