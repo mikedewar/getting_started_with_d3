@@ -29,3 +29,8 @@ The visualisations are self-sustained, so all you need do is to navigate to the 
 * python -m SimpleHTTPServer 8000
 
 and then navigate to http://localhost:8000.
+
+Reader Contributions
+====================
+* All the code, but in ClojureScript: https://github.com/wvdlaan/gswd3
+
